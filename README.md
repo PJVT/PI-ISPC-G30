@@ -18,7 +18,7 @@ Lourdes Ferreyra Farias, 41756661,
 lourdesferreyrafarias@gmail.com	|
 https://github.com/Lourdes00
 
-Yesica Pesqueira,
+Yesica Pesqueira, 35573808
 Yesica.Pesqueira@gmail.com |
 https://github.com/yesicapesqueira20
 
