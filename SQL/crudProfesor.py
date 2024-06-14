@@ -11,9 +11,10 @@ def ingresarInformacionProfesor():
     telefono = input("Ingrese el teléfono de la persona: ")
     localidad = input("Ingrese la localidad de la persona: ")
     codigo_postal = input("Ingrese el código postal de la persona: ")
+    domicilio = input("Ingrese el domicilio de la persona: ")
 
-    query = "INSERT INTO Profesor (id_profesor, id_asignatura, dni, nombre, apellido, telefono, localidad, codigo_postal) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)"
-    values = (id_profesor, id_asignatura, dni, nombre, apellido, telefono, localidad, codigo_postal)
+    query = "INSERT INTO Profesor (id_profesor, id_asignatura, dni, nombre, apellido, telefono, localidad, codigo_postal) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    values = (id_profesor, id_asignatura, dni, nombre, apellido, telefono, localidad, codigo_postal, domicilio)
 
     conexion_pythonmysql.cursor.execute(query, values)
     conexion_pythonmysql.conn.commit()
@@ -27,6 +28,7 @@ def actualizarInformacionProfesor():
         telefono = input("Nuevo Teléfono: ")
         localidad = input("Nueva Localidad")
         codigo_postal = input("Nuevo Código Postal: ")
+        domicilio = input("Nuuevo Domicilio: ")
         id_asignatura = input("Nuevo ID de Asignatura")
         
         query = "UPDATE Profesor SET nombre = %s, apellido = %s, telefono = %s, localidad = %s, codigo_postal = %s, id_asignatura = %s WHERE dni = %s"
