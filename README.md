@@ -1,4 +1,4 @@
-# PI-ISPC-G30
+# PI-ISPC-G30 - SISTEMA DE GESTIÓN ESCOLAR SIMPLE (SGES)
 Proyecto integrador ISPC 2024 - Grupo G30.
 
 Maria Celeste Montivero,	
@@ -8,11 +8,11 @@ https://github.com/MaCelMon
 
 Pablo Javier Vaz Torres,	
 p.j.vaztorres@gmail.com	|
-https://github.com/PJVT	
+https://github.com/PJVT	| 1a evidencia, 3a evidencia
 
 Juan Villarreal,	
 vin197172@gmail.com	|
-https://github.com/Jmv315 
+https://github.com/Jmv315 | 1a evidencia, 2a evidencia
 
 Lourdes Ferreyra Farias, 41756661,
 lourdesferreyrafarias@gmail.com	|
