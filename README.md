@@ -36,6 +36,10 @@ En la carpeta “Base de Datos”, hemos organizado archivos presentados en la s
 
 Antes de concluir esta descripción, no queremos dejar de destacar que en el apartado WIKI, hallarán todo lo concerniente a legislación provincial, nacional e internacional que regula el trabajo de programadores y desarrolladores, a través de situaciones hipotéticas y sus posibles soluciones con leyes, convenios y acuerdos pertinentes.
 
-**Recuperatorio de evidencia 2**: Se tratará de una app que podrán emplear tanto los docentes como los estudiantes, de instituciones educativas formales, sin interferir en los perfiles de uno y otro. Como es necesario en todo instituto de educación formal, tendrán campos donde procederán de forma pasiva o activa. Por ejemplo, los docentes tendrán actuación sostenida en las entidades "Profesor", "Asignatura" y "Alumno_Asignatura"; mientras que el estudiante tendrá actuación sostenida en las entidades "Alumno", "Persona" (alumno) y "Localidad" (alumno). El Docente actuará pasivamente sobre "Localidad" (alumno), "Alumno" (alumno) y "Persona" (alumno). Por su parte, el Estudiante actuará pasivamente sobre "Localidad" (profesor), "Profesor" (profesor), "Persona" (profesor) y "Alumno_Asignatura".
+**Recuperatorio de evidencia 2**
 
-**Texto Evidencia 2**:  Desarrollar una app básica y simple para una institución educativa, en donde cada alumno puede gestionar su cuenta académica (inscribirse a distintas materias y ver sus notas, evolución, interactuar con docentes y compañeros, etc). 
+Se tratará de una app que podrán emplear tanto los docentes como los estudiantes, de instituciones educativas formales, sin interferir en los perfiles de uno y otro. Como es necesario en todo instituto de educación formal, tendrán campos donde procederán de forma pasiva o activa. Por ejemplo, los docentes tendrán actuación sostenida en las entidades "Profesor", "Asignatura" y "Alumno_Asignatura"; mientras que el estudiante tendrá actuación sostenida en las entidades "Alumno", "Persona" (alumno) y "Localidad" (alumno). El Docente actuará pasivamente sobre "Localidad" (alumno), "Alumno" (alumno) y "Persona" (alumno). Por su parte, el Estudiante actuará pasivamente sobre "Localidad" (profesor), "Profesor" (profesor), "Persona" (profesor) y "Alumno_Asignatura".
+
+**Texto Evidencia 2**
+
+Desarrollar una app básica y simple para una institución educativa, en donde cada alumno puede gestionar su cuenta académica (inscribirse a distintas materias y ver sus notas, evolución, interactuar con docentes y compañeros, etc). 
