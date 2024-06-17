@@ -24,7 +24,7 @@ https://github.com/yesicapesqueira20
 
 Análisis y Descripción de la Propuesta de Proyecto:
 
-**Texto final para evidencia 3 y Proyecto final**:
+**Texto final para evidencia 3 y Proyecto final**
 
 A través de Sistema de Gestión Escolar Simple (SGES), un sitio web para escritorio, los usuarios de instituciones educativas podrán operar con más objetividad y dinamismo, en lo concerniente a registro de datos personales y académicos de docentes y estudiantes. En algunos menúes, los usuarios alumnos no tendrán permiso de edición (por ejemplo, en “Alumno_Asignatura”), mientras que, en otros, sí (por ejemplo, en “Localidad”, referido al docente, o “Alumno”). Lo mismo sucederá a los usuarios docentes, quienes no tendrán permiso de edición en algunos menúes (por ejemplo, “Alumno” o “Localidad”, referido al estudiante), pero en otros, sí (por ejemplo, en menú “Alumno_Asignatura”).
 
