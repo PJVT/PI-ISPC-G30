@@ -34,8 +34,6 @@ En la carpeta “Aplicación”, encontraremos ocho (8) archivos, que detallamos
 
 En la carpeta “Base de Datos”, hemos organizado archivos presentados en la segunda evidencia, en el recuperatorio de la segunda evidencia, en la tercera evidencia y en la entrega final. De la segunda evidencia, data el archivo “Diagrama-ER-NotacionChen.png”, el cual necesitó ajustes para el recuperatorio, que se vislumbraron en los siguientes archivos: “DiagramaER(Chen).svg”. En la evidencia 3, presentamos a SGES a través de “Institucion.sql”, la base de datos que dio origen al diagrama de Crow´s foot [Institucion(Crowsfoot).png], donde se detallan las claves primarias y foráneas. En lo pertinente a la entrega final, hallarán el PDF resumen y “de alto impacto” del repositorio, a través del archivo “Base de datos del proyecto, sus diagramas y SQL.pdf”, como también “institución creación de tablas y consultas.sql”, actividades solicitadas para la puesta en práctica de lo aprendido, para el proyecto final.
 
-Cabe destacar también la carpeta SQL
-
 Antes de concluir esta descripción, no queremos dejar de destacar que en el apartado WIKI, hallarán todo lo concerniente a legislación provincial, nacional e internacional que regula el trabajo de programadores y desarrolladores, a través de situaciones hipotéticas y sus posibles soluciones con leyes, convenios y acuerdos pertinentes.
 
 **Recuperatorio de evidencia 2**
